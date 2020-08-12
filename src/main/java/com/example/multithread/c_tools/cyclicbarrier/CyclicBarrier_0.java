@@ -1,4 +1,4 @@
-package com.example.multithread.c_tools;
+package com.example.multithread.c_tools.cyclicbarrier;
 
 import java.util.concurrent.CyclicBarrier;
 import java.util.concurrent.ExecutorService;

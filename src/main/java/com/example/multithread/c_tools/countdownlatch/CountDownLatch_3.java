@@ -1,4 +1,4 @@
-package com.example.multithread.c_tools;
+package com.example.multithread.c_tools.countdownlatch;
 
 /**
  * 类说明：演示CountDownLatch用法，

@@ -1,4 +1,4 @@
-package com.example.multithread.c_tools;
+package com.example.multithread.c_tools.future;
 
 import java.util.concurrent.*;
 

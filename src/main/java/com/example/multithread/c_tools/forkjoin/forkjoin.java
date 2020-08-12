@@ -1,4 +1,4 @@
-package com.example.multithread.c_tools;
+package com.example.multithread.c_tools.forkjoin;
 
 import java.util.Random;
 import java.util.concurrent.ForkJoinPool;

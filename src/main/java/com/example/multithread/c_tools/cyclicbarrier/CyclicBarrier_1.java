@@ -1,4 +1,4 @@
-package com.example.multithread.c_tools;
+package com.example.multithread.c_tools.cyclicbarrier;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
